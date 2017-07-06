@@ -8,7 +8,8 @@ In a minute you will be able to accept Byteball payments from mobile or desktop 
 
 ## Download
 Easy implementation, anonymous, nothing to install. 100% script solution platform wise independent.
-See example file.
+
+See example.html
 
 ## Documentation
 See the Wiki section for documentation.
