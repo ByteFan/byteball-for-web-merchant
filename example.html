@@ -8,8 +8,13 @@
           // payment parameters  
              var bbfm_params = {
              order_UID: '123456',
-             amount: 9998,
-              byteball_merchant_address: 'DMMLLOAG7CM7KFKGF5VUDLYUM24E6Z5C'
+	     merchant_return_url: 'https://www.merchantsite.com/process_url.php',
+	     mode_notif: 'post',
+	     currency: 'USD',
+             merchant_email: 'notify@merchant.com',
+             amount: 12.43,
+             byteball_merchant_address: 'DMMLLOAG7CM7KFKGF5VUDLYUM24E6Z5C',
+	     mode: 'prod'
              };
           // end of payment parameters    
           </script>
