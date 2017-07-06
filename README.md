@@ -14,4 +14,5 @@ See example.html
 ## Documentation
 See the Wiki section for documentation.
 
+https://github.com/ByteFan/byteball-for-web-merchant/wiki
 
