@@ -1,7 +1,7 @@
 # byteball-for-web-merchant
 Accept Byteball payments for any goods or services you sell on the internet.
 
-## Main featue
+## Main feature
 Easy implementation, anonymous, nothing to install.
 
 With our merchant solution your website will show a quick Byteball payment button similar to the well known Paypal button. It is a pure script implementation: nothing to install.
