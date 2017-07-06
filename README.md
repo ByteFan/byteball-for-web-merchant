@@ -15,4 +15,3 @@ In a minute you will be able to accept Byteball payments from mobile or desktop 
 See the Wiki section for documentation.
 
 
-![alt text](https://byteball-for-merchants.com/bb-web/img/bbbutton.png)
