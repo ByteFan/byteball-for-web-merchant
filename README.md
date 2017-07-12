@@ -13,7 +13,7 @@ On top of that Byteball for web merchants is anonymous, you do not need to regis
 ## Download
 Easy implementation, nothing to install, 100% script solution, platform wise independent.
 
-See example.html for payment button integration and customization.
+See the file example.html and the documentation for the integration and customization of the Byteball payment button.
 
 ## Documentation
 See the Wiki section for documentation.
