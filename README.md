@@ -6,9 +6,11 @@ With Byteball for web merchants you will be able to accept Byteball payments for
 
 In a minute you will be able to accept Byteball payments from mobile or desktop customers holding a Byteball wallet at a minimal cost and effort.
 
-It is a pure script implementation: nothing to install.
+Pure script implementation: nothing to install.
 
-On top of that Byteball for web merchants is anonymous, you do not need to register with us.
+Multi-currency input (Bytes, BTC, EUR, USD) to Bytes output.
+
+Anonymous: you do not need to register with us.
 
 ## Download
 Easy implementation, nothing to install, 100% script solution, platform wise independent.
