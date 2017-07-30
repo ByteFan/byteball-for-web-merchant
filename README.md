@@ -12,6 +12,8 @@ Multi-currency input (Bytes, BTC, EUR, USD) to Bytes output.
 
 Anonymous: you do not need to register with us.
 
+Per sale commission: 1000 Bytes + 0.9% fee
+
 ## Download
 Easy implementation, nothing to install, 100% script solution, platform wise independent.
 
