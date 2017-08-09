@@ -24,3 +24,5 @@ See the Wiki section for documentation.
 
 https://github.com/ByteFan/byteball-for-web-merchant/wiki
 
+## web site
+https://byteball-for-merchants.com/
