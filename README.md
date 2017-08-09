@@ -14,10 +14,10 @@ Anonymous: you do not need to register with us.
 
 Per sale commission: 1000 Bytes + 0.9% fee
 
-## Download
-Easy implementation, nothing to install, 100% script solution, platform wise independent.
+## Implementation
+Easy implementation, nothing to download, 100% script solution, platform wise independent.
 
-See the file example.html and the documentation for the integration and customization of the Byteball payment button.
+See the file example.html and the documentation for the integration and customization of the Byteball for merchants quick payment button.
 
 ## Documentation
 See the Wiki section for documentation.
