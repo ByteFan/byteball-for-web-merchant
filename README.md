@@ -29,4 +29,4 @@ https://byteball-for-merchants.com/
 
 ## Support
 http://slack.byteball.org/  
-channel #byteball_for_web_merchants
+channel #byteball_for_merchant
