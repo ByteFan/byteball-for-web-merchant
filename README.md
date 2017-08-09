@@ -26,3 +26,7 @@ https://github.com/ByteFan/byteball-for-web-merchant/wiki
 
 ## web site
 https://byteball-for-merchants.com/
+
+## Support
+http://slack.byteball.org/  
+channel #byteball_for_web_merchants
