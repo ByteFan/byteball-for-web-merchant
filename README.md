@@ -1,7 +1,7 @@
 # byteball-for-web-merchants
 Byteball for web merchants is a payment gateway between your web merchant site and the Byteball network.
 
-If you want to use our Woocommerce pluging you can skip reading and go directly to: https://github.com/ByteFan/Byteball-for-Woocommerce
+If you want to use our Woocommerce plugin skip reading and go to: https://github.com/ByteFan/Byteball-for-Woocommerce
 
 ## Main features
 With Byteball for web merchants you will be able to accept Byteball payments for any goods or services you sell on the internet. Your website will display a quick Byteball payment button similar to the well known Paypal button. Only one single click on the button is needed by your customer to pay you. It is easy to use, nothing to fill.
