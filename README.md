@@ -10,7 +10,7 @@ In a minute you will be able to be paid in Bytes from mobile or desktop customer
 
 Pure script implementation: nothing to install.
 
-Multi-currency input (Bytes, BTC, EUR, USD... and 20 more!) to Bytes output.
+Multi-currencies input (Bytes, BTC, EUR, USD, AUD, BRL, CAD, CHF, CLP, CNY, DKK, GBP, HKD, INR, ISK, JPY, KRW, NZD, PLN, RUB, SEK, SGD, THB, TWD) to Bytes output.
 
 Anonymous: you do not need to register with us.
 
