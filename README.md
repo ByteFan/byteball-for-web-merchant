@@ -31,5 +31,5 @@ https://byteball-for-merchants.com/
 
 ## Support
 http://slack.byteball.org/  
-channel #byteball_for_merchant
+channel #byteball_for_merchant  
 request an invite to slack from BTCtalk or reddit https://www.reddit.com/r/ByteBall/
